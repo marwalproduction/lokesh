@@ -1,0 +1,6 @@
+{
+  "name": "Checkout Revenue Velocity & Conversion",
+  "description": "High-fidelity recreation of the checkout revenue velocity, gross sessions, and conversion analytics chart UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
